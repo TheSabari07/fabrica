@@ -28,11 +28,9 @@ go.work
 go.work.sum
 
 # env file
-.env
 
 # Editor/IDE
 # .idea/
-# .vscode/
 
 # LLM Coding Assistant Cruft
 .claude
@@ -66,3 +64,8 @@ examples/rack-inventory/
 examples/sensor-monitor/
 
 graphify-out/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+config.bat
+node_modules
